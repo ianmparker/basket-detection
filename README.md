@@ -29,7 +29,7 @@ Shot Attempt Detected with Ball Trajectory Traced
 Shot Made Detected with Scoreboard Updated
 
 ------------------------------
-**Next Steps: **
+**Next Steps:**
 
 I plan to continue expanding on this project by training the model on a different dataset that contains additional classes.
 
