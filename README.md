@@ -4,7 +4,9 @@
 --------------------------------------------------
 
 This repository contains a YOLO model trained on a dataset of basketball images. 
+
 The model is used to detect the position of a basketball and hoop.
+
 Which is then used to determine whether a shot attempt has been made. 
 
 -------------------------------------------------
