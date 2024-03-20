@@ -40,8 +40,10 @@ This dataset contains classes for 'Ball', 'Made', 'Person', and 'Rim' which I sh
 ------------------------------
 
 My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
-References: https://github.com/nitinhemaraj/Basketball-shot-detection
 
+References: 
+ - https://github.com/nitinhemaraj/Basketball-shot-detection
+ -  
 
 
 
