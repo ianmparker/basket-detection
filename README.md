@@ -1,7 +1,17 @@
 # basket-detection
 ![child vs bot in basketball](https://github.com/ianmparker/basket-detection/assets/18231849/4aa94c81-fa3c-4e42-96bb-93e25cafea5e)
 
-Import a Video of a shoot around and let the AI Model Count the Baskets Made
+--------------------------------------------------
+
+This repository contains a YOLO model trained on a dataset of basketball images. 
+The model is used to detect the position of a basketball and hoop.
+Which is then used to determine whether a shot attempt has been made. 
+
+-------------------------------------------------
+You can use this model on a video of yourself shooting around by replaing the path of "shootaround.mov" with the path of your own video. 
+
+![image](https://github.com/ianmparker/basket-detection/assets/18231849/c8bdd6e5-11e9-437d-8c90-be8f244fe5c9)
+
 
 ----------------------------
 **SCREENSHOTS**
