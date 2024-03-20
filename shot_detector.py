@@ -16,9 +16,6 @@ class ShotDetector:
         # Define the classes that the model can detect
         self.class_names = ['Basketball', 'Basketball Hoop']
 
-        # Uncomment line below to use webcam (I streamed to my iPhone using Iriun Webcam)
-        # self.cap = cv2.VideoCapture(0)
-
         # Use video - replace text with your video path
         self.cap = cv2.VideoCapture("shootaround.mov")
 
