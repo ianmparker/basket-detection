@@ -2,12 +2,13 @@
 ![child vs bot in basketball](https://github.com/ianmparker/basket-detection/assets/18231849/4aa94c81-fa3c-4e42-96bb-93e25cafea5e)
 
 --------------------------------------------------
+**Overview**
 
 This repository contains a YOLO model trained on a dataset of basketball images. 
 
-The model is used to detect the position of a basketball and hoop.
+The model is aplied to a video to detect the position of a basketball and hoop.
 
-Which is then used to determine whether a shot attempt has been made. 
+With those positions the shot_detector.py file determines whether a shot attempt has been made. 
 
 -------------------------------------------------
 You can use this model on a video of yourself shooting around by replaing the path of "shootaround.mov" with the path of your own video. 
