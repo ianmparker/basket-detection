@@ -1,9 +1,10 @@
-train: C:\Users\ianmp\OneDrive\Desktop\Basketball-shot-detection-main\Basketball-shot-detection-main\dataset\test\images
-val: C:\Users\ianmp\OneDrive\Desktop\Basketball-shot-detection-main\Basketball-shot-detection-main\dataset\valid\images
-test: C:\Users\ianmp\OneDrive\Desktop\Basketball-shot-detection-main\Basketball-shot-detection-main\dataset\test\images
-
 # replace '...' with your local absolute paths
 # download the dataset used here: https://universe.roboflow.com/034-ganesh-kumar-m-v-cs-r2lwe/basketball-lhqoe/dataset/1
 
+train: ...\dataset\test\images
+val: ...\dataset\valid\images
+test: ...\dataset\test\images
+
+#the following names match the classes defined in the dataset
 nc: 2
 names: ['Basketball', 'Basketball Hoop']
