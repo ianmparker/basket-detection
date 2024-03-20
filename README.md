@@ -1,4 +1,4 @@
-# basket-detection
+# basket-event-detection
 ![child vs bot in basketball](https://github.com/ianmparker/basket-detection/assets/18231849/4aa94c81-fa3c-4e42-96bb-93e25cafea5e)
 
 --------------------------------------------------
