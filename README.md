@@ -13,6 +13,12 @@ With those positions the shot_detector.py file determines whether a shot attempt
 -------------------------------------------------
 You can use this model on a video of yourself shooting around by replacing the path of "shootaround.mov" with the path of your own video. 
 
+**How To Run this Project:**
+
+ - Follow the instructions in 'main.py' to train the model and prepare for shot detection.
+ - Run 'shot_detector.py' through your webcam or a phone for real-time shot detection. Or input a video for shot detection analysis.
+ - Please ensure you have the required Python packages installed, including OpenCV, numpy, and ultralytics' YOLO.
+
 ![image](https://github.com/ianmparker/basket-detection/assets/18231849/c8bdd6e5-11e9-437d-8c90-be8f244fe5c9)
 
 
@@ -43,7 +49,7 @@ My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
 
 References: 
  - https://github.com/nitinhemaraj/Basketball-shot-detection
- -  
+ - https://www.youtube.com/watch?v=WgPbbWmnXJ8
 
 
 
