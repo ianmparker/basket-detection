@@ -11,7 +11,7 @@ The model is aplied to a video to detect the position of a basketball and hoop.
 With those positions the shot_detector.py file determines whether a shot attempt has been made. 
 
 -------------------------------------------------
-You can use this model on a video of yourself shooting around by replaing the path of "shootaround.mov" with the path of your own video. 
+You can use this model on a video of yourself shooting around by replacing the path of "shootaround.mov" with the path of your own video. 
 
 ![image](https://github.com/ianmparker/basket-detection/assets/18231849/c8bdd6e5-11e9-437d-8c90-be8f244fe5c9)
 
