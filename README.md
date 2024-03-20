@@ -27,6 +27,17 @@ Shot Attempt Detected with Ball Trajectory Traced
 ![shot made](https://github.com/ianmparker/basket-detection/assets/18231849/18fcae1a-0c40-4cb9-b1ca-53171fcd9f60)
 
 Shot Made Detected with Scoreboard Updated
+------------------------------
+I plan to continue expanding on this project by training the model on a different dataset that contains additional classes.
+
+An example of a dataset containing additional classes is https://universe.roboflow.com/mathieulec/basketball-5dtuv/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true![image](https://github.com/ianmparker/basket-detection/assets/18231849/4763d106-cc1b-4c69-a9ec-4ea1e7ea9c8f)
+
+This dataset contains classes for 'Ball', 'Made', 'Person', and 'Rim' which I should be able to use to dected things like rebounds fouls, etc...
+
+------------------------------
+
+My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
+References: https://github.com/nitinhemaraj/Basketball-shot-detection
 
 
 
