@@ -29,6 +29,8 @@ Shot Attempt Detected with Ball Trajectory Traced
 Shot Made Detected with Scoreboard Updated
 
 ------------------------------
+**Next Steps: **
+
 I plan to continue expanding on this project by training the model on a different dataset that contains additional classes.
 
 An example of a dataset containing additional classes is https://universe.roboflow.com/mathieulec/basketball-5dtuv/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true![image](https://github.com/ianmparker/basket-detection/assets/18231849/4763d106-cc1b-4c69-a9ec-4ea1e7ea9c8f)
