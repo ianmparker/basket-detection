@@ -11,7 +11,8 @@ from utils import score, detect_down, detect_up, in_hoop_region, clean_hoop_pos,
 class ShotDetector:
     def __init__(self):
         # Load the YOLO model created from main.py - change text to your relative path 
-        #I copied the best.pt file to the main project folder due to some errors I was encountering with the relative path 
+        #I copied the best.pt file to the main project folder due to some errors I was encountering with the relative path.
+        #When training the YOLO model it should populate in the relative path: runs\detect\train\weights\best.pt
         self.model = YOLO("best.pt")
         # Define the classes that the model can detect
         self.class_names = ['Basketball', 'Basketball Hoop']
