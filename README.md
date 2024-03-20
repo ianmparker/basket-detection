@@ -6,7 +6,7 @@
 
 This repository contains a YOLO model trained on a dataset of basketball images. 
 
-The model is aplied to a video to detect the position of a basketball and hoop.
+Currently, the model is aplied to a video to detect the position of a basketball and hoop.
 
 With those positions the shot_detector.py file determines whether a shot attempt has been made. 
 
